@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**emersonmellado/emersonmellado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey hey... Welcome to my Github page. You will find here a lot of what I do with my life time, work and research projects. My interests are Education, Machine Learning and Artificial Intelligence. I use these deep computer science concepts to learn more about how to combine software craftsmanship with real world needs.
 
-Here are some ideas to get you started:
+## My current projects are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LAF (Learn Anything Faster)
+- Life calendar (based on Tim Urban's ted talk)
+- Random Music Generator from image capture
+
+### My future project are:
+- Acronym status update (YTBC)
+- Vibration sensor (I saw a cool video online of someone using a sensor to detect if their washer had finished the cycle and send an SMS notification)
+
+
+* This page only exists because I have a repo with my username, do it is pretty cool :)
