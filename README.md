@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey hey... Welcome to my Github page. You will find here a lot of what I do with my life time, work and research projects. My interests are Education, Machine Learning and Artificial Intelligence. I use these deep computer science concepts to learn more about how to combine software craftsmanship with real world needs.
+Hey hey... Welcome to my Github page, here you will find a lot of what I do related to code, work and research projects. My main interests are Education, Machine Learning and Artificial Intelligence. I use these deep computer science concepts to learn more about how to combine software craftsmanship with real world needs.
 
 ## My current projects are:
 
